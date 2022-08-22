@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+}
+
+/* for width less than 1000px:*/ 
+    
+.text{
+    width: 330px;
+    height:350px;
+    background-color: white;
+    margin-top: -4px;
+    border-radius: 0px 0px 5px 5px;
+}
+.container{
+    width:300px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    height: 220px;
+    width: 330px;
+    object-fit: cover;
+    margin-top: 20px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+body{
+    background-color: gray;
+}
+
+.big{
+    font-weight: 900;
+    font-size: 30px;
+    color: rgb(17, 112, 99);
+    font-family: "Fraunces";
+}
+
+.dollar{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    align-items: center;
+    height: 50px;
+    margin-top: -10px;
+}
+.small{
+    text-decoration: line-through;
+    font-family: "fraunces";
+    color: rgba(131, 127, 127, 0.884);
+    
+}
+button{
+    background-color: rgb(45, 105, 92);
+    width: 90%;
+    padding: 13px;
+    text-align: center;
+    border: none;
+    border-radius: 7px;
+    margin-inline: 10px;
+    
+}
+button:hover{
+    background-color: rgb(29, 68, 60);
+}
+button a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px;
+}
+
+svg{
+    margin-right: 5px;
+}
+
+.firstfont{
+    font-family: "Montserrat";
+    font-size: 15px;
+    margin-top: 20px;
+}
+.txt p{
+    color: rgb(131, 127, 127, 0.884);
+    margin-top: -14px;
+    font-size: 14px;
+    margin-right: 25px;
+
+}
+
+.text h4{
+    color: rgb(131, 127, 127, 0.884);
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin-top: 20;padding-top:;
+}
+.secondfont{
+    font-family: "fraunces";
+    font-size: 33px;
+    margin-top: -10px;
+}
+.txt {
+    margin-left: 15px;
+}
+
+
+/* for width more than 1000px: */
+@media screen and (min-width: 1000px) {
+    .container{
+        display: flex;
+        flex-direction: row;
+        width: 420px;
+        height: 725px;
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+    
+    }
+
+    img{
+        height: 420px;
+        width: 295px;
+        object-fit: cover;
+        border-radius: 5px 0px 0px 5px;
+    }
+
+.text{
+    width: 300px;
+    height: 420px;
+    background-color: white;
+    margin-top: 16px;
+    border-radius: 0px 5px 5px 0px;
+} 
+
+.secondfont{
+    font-size: 35px;
+}
+.txt{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.txt  h2{
+    margin-right: 47px;
+    font-weight: 900;
+    line-height: 36px;
+    
+}
+.txt p{
+    margin-right: 30px;
+}
+button{
+    margin-top: 10px;
+    width: 250px;
+}
+
+button:hover{
+    background-color: rgb(29, 68, 60);
+}
+.dollar{
+    margin-top: 10px;
+
+}
+.firstfont{
+    margin-top: 20px;
+}
+
+}
+
+
+ 
+
+ 
+
+
+
+
+
+
+
