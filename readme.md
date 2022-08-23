@@ -4,19 +4,19 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [solution](#solution)
+- [The challenge](#the-challenge)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 
-## screenshot
-![Document (2)./screenshot.jpg](./screenshot.jpg)
-![Document (3)./screenshot.jpg](./screenshot.jpg)
+# solution
+![](./screenshot.jpg)![](./screenshot2.jpg)
 
-### The challenge
+
+# The challenge
 The challenge is to build a product review card component and get it looking as close to the design as possible.
 
 Users should be able to:
@@ -25,7 +25,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 
-## My process
+# My process
 1. I initialized my project a a public repository on Github.This is because creatimg a repository will make it easier to share my code with the community.
 
 2. I configured my repository to publish my code to a web adress.
@@ -39,7 +39,7 @@ Users should be able to:
 6. I started adding styles to the top of the page and work down. I Only moved to the next section once i was done with the area i was working on.
 
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -48,12 +48,12 @@ Users should be able to:
 - visual studio code
 
 
-### Useful resources
+## Useful resources
 
-- [web3schools](https://www.web3schools.com.com) - This helped me solving some of the problems i encountered while styling this design. I really liked this pattern and will use it going forward.
+- [web3schools](https://www.web3schools.com) - This helped me solving some of the problems i encountered while styling this design. I really liked this pattern and will use it going forward.
 - [stackoverflow](https://www.stackoverflow.com) - This is an amazing article which helped me finally understand the concept of RWD. I'd recommend it to anyone still learning this concept.
 
-## Author
+# Author
 
 
 - Frontend Mentor - [@OgunrekunAyoola](https://www.frontendmentor.io/profile/OgunrekunAyoola)
