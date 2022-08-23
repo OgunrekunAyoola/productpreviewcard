@@ -159,11 +159,13 @@ button{
 button:hover{
     background-color: rgb(29, 68, 60);
 }
-.
+
 .firstfont{
     margin-top: 20px;
 }
-
+body{
+    background-color: rgb(241, 235, 227);
+}
 }
 
 
