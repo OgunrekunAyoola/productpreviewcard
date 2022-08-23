@@ -13,8 +13,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## screenshot
-![Document (2).jpg](./screenshot.jpg)
-![Document (3).jpg](./screenshot.jpg)
+![Document (2)./screenshot.jpg](./screenshot.jpg)
+![Document (3)./screenshot.jpg](./screenshot.jpg)
 
 ### The challenge
 The challenge is to build a product review card component and get it looking as close to the design as possible.
