@@ -11,17 +11,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-This is a product preview card
 
 ## screenshot
 ![Document (2).jpg](./screenshot.jpg)
 ![Document (3).jpg](./screenshot.jpg)
 
 ### The challenge
-The challenge is to build  product review card component and get it looking as close to the design as possible.
+The challenge is to build a product review card component and get it looking as close to the design as possible.
 
 Users should be able to:
 
